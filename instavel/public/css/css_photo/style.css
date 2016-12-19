@@ -1,0 +1,93 @@
+.wrap{
+	margin:0 auto;
+	width:1024px;
+}
+
+/*
+body{
+	color: #333;
+	background-image:url(low_contrast_linen.png);
+	font-family: 'Anaheim', sans-serif;
+}*/
+
+.logo{
+	
+	margin:100px auto 65px auto;
+	width:365px;
+}
+.logo h1{
+	margin-bottom:10px;
+}
+.logo h1 a{
+	color:#F89F00;
+	font-size:45px;
+	
+}
+.logo span{
+	font-size:20px;
+	color:#E4E4E4;
+}
+.gallery{
+	padding-bottom:40px;
+}
+.gallery li{
+	margin-right:31px;
+	float:left;
+	margin-bottom:40px;
+		
+
+}
+
+.gallery img {
+	padding: 20px;
+	background-image: url(debut_light.png);
+}
+
+.gallery li:nth-child(3),.gallery li:nth-child(6),.gallery li:nth-child(9){
+	margin-right:0px;
+}
+
+.content{
+	text-align:center;
+}
+.content-text p{
+	background-image: url(debut_light.png);
+	padding: 40px 40px 50px 40px;
+	
+	font-size: 1.2em;
+	color: #846244;
+	
+	letter-spacing: 1px;
+	line-height: 2em;
+}
+.content-text h2{
+	font-size:20px;
+	color:#fff;
+	padding:20px;
+	background-image: url(../images/bg8.jpg);
+}
+/*
+.footer{
+	margin:40px 0;
+}*/
+.copy{
+	margin:20px 0;
+	color:#fff;
+	float:left;
+}
+.copy a{
+	color:#F89F00;
+}
+.copy a:hover{
+	color:#666633;
+}
+.social-icon{
+	float:right;
+}
+.social-icon li{
+	float:left;	
+	margin-right:8px;
+}
+.social-icon ul li:last-child{
+	margin-right:0;
+}

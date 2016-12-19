@@ -1,0 +1,142 @@
+/*--
+	Author: W3Layouts
+	Author URL: http://w3layouts.com
+	License: Creative Commons Attribution 3.0 Unported
+	License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+
+
+/*-- Reset-Code --*/
+
+body {
+	padding: 0;
+	margin: 0;
+	background: #FFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body a {
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+	text-decoration: none;
+}
+
+body a:hover {
+	text-decoration: none;
+}
+
+body a:focus, a:hover {
+	text-decoration: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+p {
+	margin: 0;
+}
+
+
+
+label {
+	margin: 0;
+}
+
+
+a:focus, a:hover {
+	text-decoration: none;
+	outline: none;
+}
+
+/*-- //Reset-Code --*/
+
+
+
+/*-- Index-Page-Styling --*/
+
+
+/*-- //Background-Gradient-Colors --*/
+
+
+.header-right {
+	padding-top: 70px;
+}
+
+
+.header-info p {
+	font-size: 15px;
+	/*--w3layouts--*/
+	/*--agileits--*/
+	text-align: center;
+	padding: 0 100px;
+	line-height: 30px;
+	color: #EEE;
+}
+
+
+
+
+/*-- About --*/
+
+.about {
+	padding-bottom: 100px;
+}
+
+.about h2, .people h3, .tabs h3, .gallery h3, .contact-us h3, .map h3 {
+	font-size: 50px;
+	margin-bottom: 50px;
+	color: #FFF;
+}
+
+.about-grid1, .about-grid2, .about-grid3 {
+	width: 60%;
+	margin: 0 100px 0 auto;
+	background-color: #EEE;
+}
+
+.about-grid2 {
+	margin: 50px 100px;
+}
+
+.about-grid {
+	padding: 0;
+}
+
+.about h3 {
+	font-size: 30px;
+	margin: 25px 0;
+	color: #0AC1D5;
+}
+
+.about p {
+	padding: 0 30px;
+	line-height: 27px;
+	color: #777;
+}
+
+/*-- //About --*/
+
+
+
+/*-- People --*/
+
+.people {
+	padding-bottom: 100px;
+}
+
+/*--wthree--*/
+	/*--agileinfo--*/
+
+
+
+
+/*-- Responsive-Code --*/
